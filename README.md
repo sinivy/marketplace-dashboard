@@ -2,6 +2,7 @@
 
 Dashboard interativo construído com **Streamlit + Pandas + Plotly** para análise de desempenho de um marketplace.
 
+<img width="762" height="352" alt="dashboard" src="https://github.com/user-attachments/assets/afe8cf57-857d-4714-8674-9d765d359563" />
 ---
 
 ## Objetivo
